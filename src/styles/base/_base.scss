@@ -1,0 +1,26 @@
+html, body {
+    height: 100vh;
+    width: 100vw;
+}
+
+html {
+    font-size: 62.5%; 
+}
+body { 
+    font-family: 'Plus Jakarta Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    font-size: 1.4rem;
+    font-weight: 300;  
+
+    background: $bgColorTop; 
+    background: -webkit-linear-gradient(to top, $bgColorBottom, $bgColorTop);  
+    background: linear-gradient(to top, $bgColorBottom, $bgColorTop); 
+
+    color: $mainFontColor;
+     
+}
+h1 {
+  font-weight: 700;
+  font-size: clamp(4rem, 3vw, 10rem);
+}
