@@ -1,7 +1,9 @@
 
-  .header {
+  .header a {
     padding: 1.5rem;
     font-size: 2rem;
     font-weight: 700;
     color: $mainFontColor;
+    text-decoration: none;
+    display: inline-block;
   }
