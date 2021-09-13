@@ -7,7 +7,7 @@ export const Header = () => {
 
     return (
         <div className="header">
-            <Link to="/musigame"><h2>musigame.</h2></Link>
+            <Link to="./"><h2>musigame.</h2></Link>
         </div>
     )
 }

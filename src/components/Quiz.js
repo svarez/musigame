@@ -15,7 +15,7 @@ export const Quiz = () => {
     const radioRef = useRef([])
 
     const history = useHistory();
-    (!selectedArtist && history.replace('./musigame/intro'))
+    (!selectedArtist && history.replace('./intro'))
 
     const [quiz, setQuiz] = useState({
         title : '',

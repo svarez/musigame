@@ -16,7 +16,7 @@ import { Header } from '../components/ui/Header'
 
 export const AppRouter = () => {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
 
             <div className="app-container">
 
@@ -24,10 +24,10 @@ export const AppRouter = () => {
 
                 <div className="main-container">
                     <Switch>
-                        <Route exact path="/musigame/intro" component={ Intro } />
-                        <Route exact path="/musigame/quiz" component={ Quiz } />
+                        <Route exact path="/intro" component={ Intro } />
+                        <Route exact path="/quiz" component={ Quiz } />
                         
-                        <Redirect to="/musigame/intro" />
+                        <Redirect to="/intro" />
 
                     </Switch>
                 </div>
