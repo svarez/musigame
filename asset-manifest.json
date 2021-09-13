@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/musigame/static/css/main.f8febc84.chunk.css",
-    "main.js": "/musigame/static/js/main.61948623.chunk.js",
-    "main.js.map": "/musigame/static/js/main.61948623.chunk.js.map",
+    "main.js": "/musigame/static/js/main.b6315c2c.chunk.js",
+    "main.js.map": "/musigame/static/js/main.b6315c2c.chunk.js.map",
     "runtime-main.js": "/musigame/static/js/runtime-main.291d9507.js",
     "runtime-main.js.map": "/musigame/static/js/runtime-main.291d9507.js.map",
     "static/js/2.735c9e42.chunk.js": "/musigame/static/js/2.735c9e42.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.291d9507.js",
     "static/js/2.735c9e42.chunk.js",
     "static/css/main.f8febc84.chunk.css",
-    "static/js/main.61948623.chunk.js"
+    "static/js/main.b6315c2c.chunk.js"
   ]
 }
