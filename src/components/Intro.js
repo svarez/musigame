@@ -25,7 +25,7 @@ export const Intro = () => {
             if(artists.length > 0) {
                 const selectedArtist = artists.reduce((acc, ele) => (parseInt(acc.listeners) > parseInt(ele.listeners)) ? acc : ele );
                 setSelectedArtist(selectedArtist);
-                history.replace('/quiz')
+                history.replace('/musigame/quiz')
             } else {
                 setError(`We couldn't find any title with the name of ${favArtist}`)
             }

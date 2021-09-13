@@ -24,10 +24,10 @@ export const AppRouter = () => {
 
                 <div className="main-container">
                     <Switch>
-                        <Route exact path="/intro" component={ Intro } />
-                        <Route exact path="/quiz" component={ Quiz } />
+                        <Route exact path="/musigame/intro" component={ Intro } />
+                        <Route exact path="/musigame/quiz" component={ Quiz } />
                         
-                        <Redirect to="/intro" />
+                        <Redirect to="/musigame/intro" />
 
                     </Switch>
                 </div>
