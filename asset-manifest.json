@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/musigame/static/css/main.f8febc84.chunk.css",
+    "main.css": "/musigame/static/css/main.0e0f36aa.chunk.css",
     "main.js": "/musigame/static/js/main.b6315c2c.chunk.js",
     "main.js.map": "/musigame/static/js/main.b6315c2c.chunk.js.map",
     "runtime-main.js": "/musigame/static/js/runtime-main.291d9507.js",
@@ -8,13 +8,13 @@
     "static/js/2.735c9e42.chunk.js": "/musigame/static/js/2.735c9e42.chunk.js",
     "static/js/2.735c9e42.chunk.js.map": "/musigame/static/js/2.735c9e42.chunk.js.map",
     "index.html": "/musigame/index.html",
-    "static/css/main.f8febc84.chunk.css.map": "/musigame/static/css/main.f8febc84.chunk.css.map",
+    "static/css/main.0e0f36aa.chunk.css.map": "/musigame/static/css/main.0e0f36aa.chunk.css.map",
     "static/js/2.735c9e42.chunk.js.LICENSE.txt": "/musigame/static/js/2.735c9e42.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.291d9507.js",
     "static/js/2.735c9e42.chunk.js",
-    "static/css/main.f8febc84.chunk.css",
+    "static/css/main.0e0f36aa.chunk.css",
     "static/js/main.b6315c2c.chunk.js"
   ]
 }
